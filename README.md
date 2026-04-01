@@ -1,6 +1,7 @@
 # 📊 Customer Shopping Behavior Analysis
 
-![Project Workflow](./project_workflow.png)
+![Project Workflow](./project_workflow.png)<img width="944" height="1024" alt="Data analysis process flowchart" src="https://github.com/user-attachments/assets/c9bf6636-9dd8-4847-aeeb-e09ebdc9e7fd" />
+
 
 ## 🧠 Project Overview
 This project analyzes customer shopping behavior using transactional data from **3,900 purchases** across various product categories.  
