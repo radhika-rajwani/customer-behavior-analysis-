@@ -1,6 +1,6 @@
 # 📊 Customer Shopping Behavior Analysis
 
-![Project Workflow](./project_workflow.png)<img width="944" height="1024" alt="Data analysis process flowchart" src="https://github.com/user-attachments/assets/c9bf6636-9dd8-4847-aeeb-e09ebdc9e7fd" />
+<img width="944" height="1024" alt="Data analysis process flowchart" src="https://github.com/user-attachments/assets/c9bf6636-9dd8-4847-aeeb-e09ebdc9e7fd" />
 
 
 ## 🧠 Project Overview
